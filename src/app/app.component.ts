@@ -5,27 +5,15 @@ import {Component, OnInit} from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-<<<<<<< Updated upstream
-export class AppComponent {
-=======
 export class AppComponent implements OnInit{
->>>>>>> Stashed changes
 
   query : string;
   artists : any;
 
-<<<<<<< Updated upstream
   constructor() {
     this.query = "";
-=======
-  // method
-  showArtist(item : any){
-    this.query = item.name;
-  }
 
-  constructor() {
-    this.query = '';
->>>>>>> Stashed changes
+
     this.artists = [
       {
         "name":"Barot Bellingham",
@@ -83,11 +71,12 @@ export class AppComponent implements OnInit{
       }
     ]
   }
-<<<<<<< Updated upstream
-=======
 
   ngOnInit() {
   }
 
->>>>>>> Stashed changes
+  showArtist(item : any){
+    this.query = item.name
+  }
+
 }
