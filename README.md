@@ -35,3 +35,10 @@
 - Use the CLI
 - Props to pass vars
 - Inputs / Imports
+
+
+# GENERATING COMPONENTS
+- Dates, text-transformn
+- Generate With CLI
+- transform(pipeData, pipeModifier)
+- ng generate pipe (name pipe)
