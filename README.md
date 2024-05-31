@@ -31,3 +31,7 @@
 - Additional Import
 - Subscribe to Observable
 
+# GENERATING COMPONENTS
+- Use the CLI
+- Props to pass vars
+- Inputs / Imports
