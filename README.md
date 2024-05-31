@@ -22,4 +22,12 @@
 - Any Element Property
 - Compared to Expressions
 
->>>>>>> Stashed changes
+
+# TWO WAY DATA BINDING
+- [( ngModel )]
+- [( ngControl )]
+- Additional Imports
+- onInit
+- Additional Import
+- Subscribe to Observable
+
