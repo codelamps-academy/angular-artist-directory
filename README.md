@@ -1,4 +1,7 @@
-<<<<<<< Updated upstream
+# RUN THIS PROJECT
+- clone git@github.com:codelamps-academy/angular-artist-directory.git
+- ng serve -o
+
 # ANGULAR TEMPLATE
 - templateUrl
 - template
@@ -42,3 +45,4 @@
 - Generate With CLI
 - transform(pipeData, pipeModifier)
 - ng generate pipe (name pipe)
+
